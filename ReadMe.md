@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Gemini API Developer Competition.<br>👯 I’m looking to collaborate on projects of related to that competition.<br>🤝 I’m looking for help with Gemini API Developer Competition win!!<br>🌱 I’m currently learning ML, using Gemini API, etceteras! <br>💬 Ask me about nothing :)))<br>⚡ Fun fact, I'm a developing student developer 😁😁😊
 
 
 ## 🌐 Socials:
